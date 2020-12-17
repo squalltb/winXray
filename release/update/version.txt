@@ -1,0 +1,8 @@
+{
+    "description":"发布 v1.7.2，增强导入链接自动识别能力，添加路由检测工具，改进错误提示，修正Ping工具不可用。",
+    "format":".lzma",
+    "main":"\\winXray.exe",
+    "updater":"\\winXray.exe",
+    "url":"https://raw.githubusercontent.com/winXray/winXray/master/release/update/",
+    "version":"1.7.02"
+}
