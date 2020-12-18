@@ -8,7 +8,7 @@ winXray  最新版支持直接使用 github 网址作为订阅链接。例如，
 
 但是大家放心，即使你访问不了 raw.githubusercontent.com，winXray 仍然可以调用 github 的API 顺利地把目标文件下载下来。 
 
-winXray 的订阅链接可以返回所有 winXray 能兼容的服务器配置，例如：
+winXray 的订阅链接可以返回所有 winXray 能兼容的服务器配置，例如：  
 1、直接返回一行或多行分享链接，支持vmess,vless,ss,trojan,trojan-go 这一堆的各种通用分享格式，每行一个有效链接，无效的行 winXray 会自动忽略。  
 2、可以每行一个服务器配置JSON，也可以把多个服务器配置JSON放到一个数组里（就是放到方括号里），winXray都能兼容，JSON推荐使用 winXray 的语法 - winXray已经把各种不同的代理协议配置规范化为了几个简单且通用的字段。当然你可以返回一些 winXray 可以兼容的通用JSON，winXray 会最大可能的识别并转换各种JSON格式，例如服务器的字段名你可以写为add,address,server 等等不同的名字。  
 
