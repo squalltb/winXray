@@ -9,6 +9,9 @@ vmess://eyJhZGQiOiJjb25zdW0yLmN1a2VlLmNjIiwiYWlkIjo2NCwiaG9zdCI6ImNvbnN1bTIuY3Vr
 
 也可以直接导入 [公益服务器订阅链接](./sub/sample.json)  
 
+[winXray 入门小技巧](./sub/introduce.md)   
+[winXray 最新视频教程](https://www.youtube.com/results?search_query=winXray&sp=CAI%253D)  
+
 # winXray 
 本软件源码已贡献到公共领域并放弃版权，源码可使用 [aardio（开发环境仅6.5MB）](http://www.aardio.com) 编译生成单文件绿色EXE( 不需要.Net等任何外部运行库 ），**[点这里下载](./../../raw/master/release/winXray.7z)** （ [64位版本](./../../raw/master/release/winXray.7z) / [32位版本](./../../raw/master/release/winXray32.7z) ），解压即可直接使用( 仅  **[5.0MB](./../../raw/master/release/winXray.7z)** - 已自带 Xray-core）。
 
